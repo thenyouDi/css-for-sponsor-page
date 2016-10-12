@@ -1,0 +1,107 @@
+<div class="field field-name-field-sponsor-description field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p style="display:none">MJD is a digital innovation agency. We create award winning digital products and experiences across web, mobile and connected environments. The unique combination of digital strategy, user experience, user interface design and technology innovation has enabled MJD to partner with some of the world's best known brands and cutting edge start-ups.</p>
+<style>
+
+      .page-node-50 .page-header {
+        display: none;
+      }
+      .page-node-50 .main-container .row > .col-lg-offset-1 {
+        width: 100%;
+      }
+      .cf:before,
+      .cf:after {
+        content: " ";
+        display: table;
+      }
+      .cf:after {
+        clear: both;
+      }
+      .field-name-field-sponsor-logo {
+        display: none;
+      }
+      .container {
+        padding: 0;
+        margin: 0 auto;
+        max-width: 945px;
+        width: 100%;
+       }
+       .container img {
+        border: 0 none;
+        height: auto;
+        max-width: 100%;
+        vertical-align: middle;
+        width: 100%;
+      }
+      .container *,
+      .container *:after,
+      .container *:before {
+        box-sizing: border-box;
+        font-weight: normal;
+        margin: 0;
+        outline: none;
+        padding: 0;
+      }
+      a:hover {
+        text-decoration: none;
+      }
+      .mjd-header,
+      .mjd-footer {
+        margin: 50px 0;
+      }
+      .mjd-header .mjd-logo {
+        float: left;
+        max-width: 179px; 
+        width: 18.941798941799%; 
+      }
+      .mjd-header .mjd-caption {
+        float: right;
+        line-height: 123px;
+        max-width: 360.5px; 
+        width: 38.148148148148%; 
+      }
+      .mjd-content br,
+      .mjd-footer br {
+      display: none;
+      }
+      .mjd-content p {
+        padding: 0;
+        font-size: 13px;
+        line-height: 28px;
+      }
+      .page-node-50 .field-name-field-sponsor-level, .page-node-50 .field-name-field-sponsor-website {
+        display: none;
+      }
+      .mjd-footer {
+        text-align: center;
+      }
+      .mjd-footer ul {
+        font-size: 0;
+        line-height: 0;
+        padding: 0;
+        margin: 0;
+        display: block;
+      }
+      .mjd-footer ul li {
+        display: inline-block;
+        vertical-align: middle;
+        margin: 0 40px;
+      }
+
+    
+</style><div class="container">
+      <header class="mjd-header cf"><div class="mjd-logo">
+          <a href="http://www.mjdinteractive.com/"><img src="http://dev-mjd-fpo.pantheon.io/themes/sandcamp/mjd_logo.gif" alt="MJD"></a>
+        </div>
+<div class="mjd-caption">
+          <img src="http://dev-mjd-fpo.pantheon.io/themes/sandcamp/mjd_description.gif" alt="WE ARE A DIGITAL INNOVATION AGENCY"></div>
+<p>      </p></header><br><main class="content-wrapper"><br><article class="mjd-content"><br><img src="http://dev-mjd-fpo.pantheon.io/themes/sandcamp/mjd_services.gif" alt="services"><p style="padding: 40px 4.232804232804%;">MJD is a digital innovation agency. We create award winning digital products and experiences across web, mobile and connected environments. The unique combination of digital strategy, user experience, user interface design and technology innovation has enabled MJD to partner with some of the world's best known brands and cutting edge start-ups.</p>
+<p><img src="http://dev-mjd-fpo.pantheon.io/themes/sandcamp/work.jpg" alt="clients"></p>
+<p style="padding: 40px 4.232804232804%;">Our clients include: Disney, Qualcomm, the Grammys, GoPro, Red Bull, Oakley, SAG Awards, Vail Resorts, Stanford University, American Girl, Viper, Riot Games, Stride Rite, Titleist, P&amp;G, NBCUniversal, SDG&amp;E, Falken Tire, FTD, and Legendary Pictures. This work has led to a variety of highly acclaimed industry awards including honors from the Webby Awards, OMMA, W3 Awards, and the ADDYs. Our offices are in San Diego and Los Angeles just steps from the beach. You should come visit us.</p>
+<p><a href="http://www.mjdinteractive.com/about-us/careers/"><img src="http://dev-mjd-fpo.pantheon.io/themes/sandcamp/check_us_out.gif" alt="us"></a></p>
+<p>        </p></article><br></main><br><footer class="mjd-footer"><div class="mjd-social-icons">
+<ul><li><a href="https://www.facebook.com/mjdinteractive/" target="_blank"><img src="http://dev-mjd-fpo.pantheon.io/themes/sandcamp/facebook-icon.png" alt="Facebook"></a></li>
+<li><a href="https://www.instagram.com/mjdinteractive/" target="_blank"><img src="http://dev-mjd-fpo.pantheon.io/themes/sandcamp/instagram-icon.png" alt="instagram"></a></li>
+<li><a href="https://www.linkedin.com/company/mjd-interactive" target="_blank"><img src="http://dev-mjd-fpo.pantheon.io/themes/sandcamp/linkedin-icon.png" alt="Linkedin"></a></li>
+<li><a href="https://twitter.com/mjdinteractive" target="_blank"><img src="http://dev-mjd-fpo.pantheon.io/themes/sandcamp/twitter-icon.png" alt="twitter"></a></li>
+</ul></div>
+<p>  </p></footer></div>
+</div></div></div>
